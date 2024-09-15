@@ -1,4 +1,4 @@
-![Sub N Grill Logo](profile/assets/banner.png)
+![Sub N Grill Logo](assets/banner.png)
 ---
 
 # 📜 American Sub N Grill LLC & Sub N Grill
