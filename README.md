@@ -40,7 +40,7 @@ We love collaboration and feedback from the community. If you have ideas, sugges
 For more information, you can reach us at:
 
 - **Email**: [support@subngrill.com](mailto:support@subngrill.com) 📧
-- **Phone**: +1 📞 850-820-7581
+- **Phone**: 📞 +1-850-820-7581
 
 ## 📝 License
 
