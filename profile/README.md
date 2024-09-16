@@ -1,7 +1,7 @@
 ![Sub N Grill Logo](assets/banner.png)
 ---
 
-# 📜 American Sub N Grill LLC - Trademark: Sub N Grill
+# 📜 Sub N Grill
 
 Hello! 👋 Thank you for visiting the GitHub repository of **American Sub N Grill LLC** and our trademark **Sub N Grill**. Here you'll find information about our technological initiatives and projects related to our food service company.
 
@@ -39,6 +39,7 @@ We love collaboration and feedback from the community. If you have ideas, sugges
 
 For more information, you can reach us at:
 
+- **Name**: American Sub N Grill LLC
 - **Email**: [support@subngrill.com](mailto:support@subngrill.com) 📧
 - **Phone**: 📞 +1-850-820-7581
 - **Postal Address**: 📬 1317 Edgewater Dr #3252, Orlando, FL 32804, USA
