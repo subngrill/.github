@@ -39,7 +39,8 @@ We love collaboration and feedback from the community. If you have ideas, sugges
 
 For more information, you can reach us at:
 
-- **Name**: American Sub N Grill LLC
+- **Corporate**: American Sub N Grill LLC
+- **Trademark**: Sub N Grill
 - **Email**: [support@subngrill.com](mailto:support@subngrill.com) 📧
 - **Phone**: 📞 +1-850-820-7581
 - **Postal Address**: 📬 1317 Edgewater Dr #3252, Orlando, FL 32804, USA
