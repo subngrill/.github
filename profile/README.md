@@ -53,7 +53,7 @@ Stay connected and follow us on our social media platforms:
 - **X**: [Sub N Grill](https://x.com/SubNGrill) 🐦
 - **TikTok**: [Sub N Grill](https://www.tiktok.com/@SubNGrillrest) 🎵
 - **LinkedIn**: [Sub N Grill](https://www.linkedin.com/company/subngrill) 🔗
-- **YouTube**: [Sub N Grill](https://www.youtube.com/SubNGrill) ▶️
+- **YouTube**: <a href="https://www.youtube.com/@SubNGrill" target="_blank">Sub N Grill</a> ▶️
 
 
 ## 📝 License
