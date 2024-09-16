@@ -46,13 +46,13 @@ For more information, you can reach us at:
 🌟 Follow Us
 Stay connected and follow us on our social media platforms:
 
-Facebook: Sub N Grill ![Facebook](https://www.flaticon.com/free-icon/meta_6033716?term=meta&page=1&position=1&origin=search&related_id=6033716) =20x20)
-Instagram: Sub N Grill ![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png =20x20)
-Threads: Sub N Grill ![Threads](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Threads_Logo.svg/1200px-Threads_Logo.svg.png =20x20)
-X: Sub N Grill ![X](https://upload.wikimedia.org/wikipedia/commons/e/e6/Twitter_Logo.svg =20x20)
-TikTok: Sub N Grill ![TikTok](https://upload.wikimedia.org/wikipedia/commons/6/60/TikTok_logo_2021.svg =20x20)
-LinkedIn: Sub N Grill ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7c/LinkedIn_logo_initials.png =20x20)
-YouTube: Sub N Grill ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png =20x20)
+Facebook: Sub N Grill 🟦
+Instagram: Sub N Grill 📸
+Threads: Sub N Grill 🧵
+X: Sub N Grill 🐦
+TikTok: Sub N Grill 🎵
+LinkedIn: Sub N Grill 🔗
+YouTube: Sub N Grill ▶️
 
 ## 📝 License
 
