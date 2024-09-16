@@ -43,6 +43,17 @@ For more information, you can reach us at:
 - **Phone**: 📞 +1-850-820-7581
 - **Postal Address**: 📬 1317 Edgewater Dr #3252, Orlando, FL 32804, USA
 
+🌟 Follow Us
+Stay connected and follow us on our social media platforms:
+
+Facebook: Sub N Grill ![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg =20x20)
+Instagram: Sub N Grill ![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png =20x20)
+Threads: Sub N Grill ![Threads](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Threads_Logo.svg/1200px-Threads_Logo.svg.png =20x20)
+X: Sub N Grill ![X](https://upload.wikimedia.org/wikipedia/commons/e/e6/Twitter_Logo.svg =20x20)
+TikTok: Sub N Grill ![TikTok](https://upload.wikimedia.org/wikipedia/commons/6/60/TikTok_logo_2021.svg =20x20)
+LinkedIn: Sub N Grill ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7c/LinkedIn_logo_initials.png =20x20)
+YouTube: Sub N Grill ![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png =20x20)
+
 ## 📝 License
 
 All projects in this repository are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
