@@ -47,13 +47,13 @@ For more information, you can reach us at:
 
 Stay connected and follow us on our social media platforms:
 
-Facebook: Sub N Grill 🟦
-Instagram: Sub N Grill 📸
-Threads: Sub N Grill 🧵
-X: Sub N Grill 🐦
-TikTok: Sub N Grill 🎵
-LinkedIn: Sub N Grill 🔗
-YouTube: Sub N Grill ▶️
+- Facebook: Sub N Grill 🟦
+- Instagram: Sub N Grill 📸
+- Threads: Sub N Grill 🧵
+- X: Sub N Grill 🐦
+- TikTok: Sub N Grill 🎵
+- LinkedIn: Sub N Grill 🔗
+- YouTube: Sub N Grill ▶️
 
 ## 📝 License
 
