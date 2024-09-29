@@ -57,13 +57,6 @@ Stay connected and follow us on our social media platforms:
 - **LinkedIn**: [Sub N Grill](https://www.linkedin.com/company/subngrill) 🔗
 - **YouTube**: [Sub N Grill](https://www.youtube.com/@SubNGrill) ▶️
 
-
-## 📝 License
-
-All projects in this repository are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Thank you for your interest and happy coding! 🚀
-
 ---
 
 Feel free to tweak this further if needed, and let me know if there’s anything else you’d like to adjust!
